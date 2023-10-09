@@ -10,7 +10,7 @@ The Italian Parkinson's Voice and Speech (IPVS) database is used for this study,
 
 ## Methodology
 
-The study employs several machine learning algorithms, including K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Decision Trees (DT), Random Forest (RF), and Logistic Regression (LG), to classify PD based on MFCC features extracted from sustained vowels /a/ and /i/.
+The study employs several machine learning algorithms, including K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Decision Trees (DT), Random Forest (RF), Logistic Regression (LG), and Neural Networks, to classify PD based on MFCC features extracted from sustained vowels /a/ and /i/.
 
 ## Results
 
